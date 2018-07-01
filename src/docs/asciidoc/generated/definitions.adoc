@@ -1,0 +1,20 @@
+
+[[_definitions]]
+== Definitions
+
+[[_user]]
+=== User
+
+[options="header", cols=".^3,.^4"]
+|===
+|Name|Schema
+|**age** +
+__optional__|integer (int32)
+|**id** +
+__optional__|integer (int64)
+|**name** +
+__optional__|string
+|===
+
+
+

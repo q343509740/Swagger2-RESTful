@@ -1,0 +1,12 @@
+
+h2. Definitions {anchor:definitions}
+
+h3. User {anchor:user}
+
+||Name||Schema||
+|*age*\\ \\ _optional_||integer (int32)|
+|*id*\\ \\ _optional_||integer (int64)|
+|*name*\\ \\ _optional_||string|
+
+
+
